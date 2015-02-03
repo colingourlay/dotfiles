@@ -94,9 +94,9 @@ brew install tree
 brew install webkit2png
 brew install zopfli
 
-# Install Node.js. Note: this installs `npm` too, using the recommended
+# Install io.js (Node.js fork). Note: this installs `npm` too, using the recommended
 # installation method.
-brew install node
+brew install iojs
 
 # Remove outdated versions from the cellar.
 brew cleanup
