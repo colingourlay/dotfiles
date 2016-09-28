@@ -152,4 +152,5 @@ alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resource
 alias reload="exec $SHELL -l"
 
 # Misc
+alias fuckqr="sudo spoof randomize en0"
 alias flix="katflix -- --vlc"
